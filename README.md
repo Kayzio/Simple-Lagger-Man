@@ -12,6 +12,6 @@ this in the "Controller.java" in the source.
   
 **Picture**  
 ![picture alt](https://raw.githubusercontent.com/Kayzio/Simple-Lagger-Man/master/lib/images/lag_off.png "When lag is not on")
-![picture alt](https://raw.githubusercontent.com/Kayzio/Simple-Lagger-Man/master/lib/images/lag_on.png "When lag is on") 
+![picture alt](https://raw.githubusercontent.com/Kayzio/Simple-Lagger-Man/master/lib/images/lag_on.PNG "When lag is on") 
 
 :star:Created by **Kayzio Groups**:star:
