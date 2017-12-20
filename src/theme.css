@@ -1,0 +1,23 @@
+.close{
+    -fx-text-fill: #000000;
+    -fx-background-color: #5C5C5C;
+    -fx-border-radius: 90;
+    -fx-background-radius: 90;
+    -fx-padding: 10;
+}
+
+.close:hover {
+	-fx-text-fill: #000000;
+    -fx-background-color: #474747;
+    -fx-border-radius: 90;
+    -fx-background-radius: 90;
+    -fx-padding: 10;
+}
+
+.close:pressed {
+	-fx-text-fill: #000000;
+    -fx-background-color: #5C5C5C;
+    -fx-border-radius: 90;
+    -fx-background-radius: 90;
+    -fx-padding: 10;
+}
