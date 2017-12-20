@@ -8,7 +8,9 @@ for vice versa.
 **To Use**  
 Press <TAB> to toggle on or off. You can change this in the  
 "Controller.java" in the source.  
-**Make sure to turn of static IP if you have it.**  
+  
+**--> Make sure to turn of static IP if you have it. <--**  |
+------------------------------------------------------------|
   
 **Picture**  
 ![picture alt](https://raw.githubusercontent.com/Kayzio/Simple-Lagger-Man/master/lib/images/lag_off.png "When lag is not on")
